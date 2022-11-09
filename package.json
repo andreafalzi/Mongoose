@@ -4,12 +4,17 @@
   "description": "Small mongoose setup",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon app.js",
+    "install": "npm install"
   },
   "repository": {
     "type": "git",
     "url": "Mongoose"
   },
   "author": "Andrea Falzi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20"
+  }
 }
