@@ -1,0 +1,15 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "Small mongoose setup",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Mongoose"
+  },
+  "author": "Andrea Falzi",
+  "license": "ISC"
+}
